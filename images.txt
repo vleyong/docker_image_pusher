@@ -1,3 +1,2 @@
 dataease/sqlbot:latest
-dataease/sqlbot:v1
 mysql:8.0.44-debian
