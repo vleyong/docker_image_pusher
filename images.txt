@@ -2,3 +2,4 @@ dataease/sqlbot:latest
 mysql:8.0.44-debian
 dataease/sqlbot:v1.4.0
 portainer/portainer-ce:lts
+portainer/agent:2.33.6
