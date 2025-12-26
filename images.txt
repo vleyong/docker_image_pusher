@@ -1,6 +1,4 @@
---platform=linux/x86_64
 dataease/sqlbot:latest
 mysql:8.0.44-debian
 dataease/sqlbot:v1.4.0
-portainer/portainer-ce:lts
 portainer/portainer:linux-amd64-2.0.1
